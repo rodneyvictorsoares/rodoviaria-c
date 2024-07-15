@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto **Companhia Rodoviária** é um sistema de venda de passagens rodoviárias desenvolvido em C++. Ele permite ao usuário escolher entre diferentes destinos, tipos de passagens, e horários, verificando a disponibilidade e realizando a compra de passagens.
+O projeto **Rodoviária C++** é um sistema de venda de passagens rodoviárias desenvolvido em C++. Ele permite ao usuário escolher entre diferentes destinos, tipos de passagens, e horários, verificando a disponibilidade e realizando a compra de passagens.
 
 ## Funcionalidades
 
@@ -25,11 +25,11 @@ Para compilar e executar este projeto, siga as instruções abaixo:
 
 1. Clone o repositório
     ```bash
-    git clone https://github.com/yourusername/companhia-rodoviaria.git
+    git clone https://github.com/rodneyvictorsoares/rodoviaria-c.git
     ```
 2. Navegue até o diretório do projeto
     ```bash
-    cd companhia-rodoviaria
+    cd rodoviaria-c
     ```
 3. Compile o código
     ```bash
@@ -58,8 +58,7 @@ Qual a Opcao: 1
 Destino Salvador
 Saída as 20:00:00 do dia 25/12/2022
 Chegada as 08:00:00 do dia 27/12/2022
-
-
+```
 ## Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
@@ -76,8 +75,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-- **Seu Nome** - ordabelem@hotmail.com
-- **GitHub** - https://github.com/rodneyvictorsoares/tarefas-academicas-web
+- **Email** - ordabelem@hotmail.com
+- **GitHub** - https://github.com/rodneyvictorsoares
 
 ---
 
