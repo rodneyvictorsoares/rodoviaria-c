@@ -62,3 +62,28 @@ Saída as 20:00:00 do dia 25/12/2022
 Chegada as 08:00:00 do dia 27/12/2022
 
 
+## Contribuição
+
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+1. Fork o repositório
+2. Crie um branch para sua feature (`git checkout -b feature/nova-feature`)
+3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
+4. Faça o push para o branch (`git push origin feature/nova-feature`)
+5. Abra um Pull Request
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contato
+
+- **Seu Nome** - ordabelem@hotmail.com
+- **GitHub** - https://github.com/rodneyvictorsoares/tarefas-academicas-web
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-ASP.NET_Core-1f425f.svg" alt="Feito com ASP.NET Core">
+  <img src="https://img.shields.io/badge/Deployed_on-GitHub_Pages-1f425f.svg" alt="Deploy no GitHub Pages">
+</p>
