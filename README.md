@@ -1,7 +1,5 @@
 # Rodoviária C++
 
-![Logo](https://yourlogo.com/logo.png)
-
 ## Descrição
 
 O projeto **Companhia Rodoviária** é um sistema de venda de passagens rodoviárias desenvolvido em C++. Ele permite ao usuário escolher entre diferentes destinos, tipos de passagens, e horários, verificando a disponibilidade e realizando a compra de passagens.
